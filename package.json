@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "html-validate-vue": "^6.1.0"
+  }
+}
